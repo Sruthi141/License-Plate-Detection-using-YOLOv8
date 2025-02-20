@@ -90,8 +90,8 @@ python ultralytics/yolo/v8/detect/predict.py --weights runs/detect/train/weights
 
 ## Contributors
 
-- Tanush Reddy
-- [Add other team members]
+- Kommati sruthi and Team
+
 
 ## License
 
