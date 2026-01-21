@@ -98,6 +98,3 @@ python ultralytics/yolo/v8/detect/predict.py --weights runs/detect/train/weights
 
 This project is open-source and free to use for educational purposes.
 
-=======
-# License-Plate-Detection-using-YOLOv8
->>>>>>> 1f73b271b9edfaa6b8a219f592c92de08583ea7f
