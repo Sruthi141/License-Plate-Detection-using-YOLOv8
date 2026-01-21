@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # License Plate Detection using YOLOv8
 
 ## Project Overview
